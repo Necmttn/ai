@@ -1,5 +1,11 @@
 # @ai-sdk/provider-utils
 
+## 3.0.0-canary.8
+
+### Major Changes
+
+- 5d142ab: remove deprecated `CoreToolCall` and `CoreToolResult` types
+
 ## 3.0.0-canary.7
 
 ### Patch Changes

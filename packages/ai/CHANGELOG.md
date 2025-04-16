@@ -1,5 +1,17 @@
 # ai
 
+## 5.0.0-canary.9
+
+### Major Changes
+
+- b32e192: chore (ai): rename reasoning to reasoningText, rename reasoningDetails to reasoning (streamText, generateText)
+
+### Patch Changes
+
+- cb9c9e4: remove deprecated `experimental_wrapLanguageModel`
+- Updated dependencies [5d142ab]
+  - @ai-sdk/provider-utils@3.0.0-canary.8
+
 ## 5.0.0-canary.8
 
 ### Major Changes

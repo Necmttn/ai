@@ -53,7 +53,8 @@
     "@vercel/ai-tsconfig": "0.0.0",
     "analyze-downloads": "0.0.0",
     "generate-llms-txt": "0.0.0",
-    "@ai-sdk/rsc": "1.0.0-canary.1"
+    "@ai-sdk/rsc": "1.0.0-canary.1",
+    "@ai-sdk/elevenlabs": "1.0.0-canary.0"
   },
   "changesets": [
     "afraid-moles-cross",
@@ -67,6 +68,7 @@
     "chilled-queens-remember",
     "clean-numbers-cover",
     "cool-buckets-shout",
+    "cool-shrimps-kick",
     "cuddly-icons-kick",
     "cuddly-kangaroos-double",
     "dull-candles-trade",
@@ -83,6 +85,7 @@
     "huge-cloths-burn",
     "hungry-bears-glow",
     "hungry-pets-hear",
+    "hungry-zebras-applaud",
     "itchy-cars-relax",
     "late-brooms-suffer",
     "late-foxes-battle",
@@ -112,6 +115,7 @@
     "smooth-mirrors-kneel",
     "strange-apricots-enjoy",
     "strange-camels-decide",
+    "sweet-turtles-kiss",
     "tall-rice-flash",
     "tender-buses-glow",
     "tender-tables-trade",
@@ -127,6 +131,7 @@
     "wicked-flowers-study",
     "wild-candles-judge",
     "wild-cats-work",
+    "witty-candles-pretend",
     "yellow-ligers-brake"
   ]
 }
